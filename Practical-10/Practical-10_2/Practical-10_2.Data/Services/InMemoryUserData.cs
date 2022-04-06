@@ -21,9 +21,9 @@ namespace Practical_10_2.Data.Services
         {
             Users = new List<User>()
             {
-                    new User{Id=1,Name="Dhruvin Jariwala",Date_Of_Brith="23/05/2000",Address="9/622, Wadifaliya Surat"},
-                    new User{Id=2,Name="Divyesh Jariwala",Date_Of_Brith="26/06/2000",Address="B-23,Vijay Nagar Socity,Surat"},
-                    new User{Id=3,Name="Pratik Jariwala",Date_Of_Brith="26/01/1999",Address="A-34,Udhna Darwaja Road,Surat"},
+                    new User{Id=1,Name="Sarvesh Patel ",Date_Of_Brith="09/05/2000",Address="9/622, Greenland height Ahmedabad"},
+                    new User{Id=2,Name="Harshil Patel",Date_Of_Brith="12/06/2000",Address="B-23,Vijay Nagar Socity,Surat"},
+                    new User{Id=3,Name="Pratik Shah",Date_Of_Brith="26/01/1999",Address="A-34,Collage Road ,Nadiad"},
             };
         }
         //add data to list

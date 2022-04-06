@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Practical-10_1",
-    "\\Practical-10_1\\Practical-10_1.Data",
-    "\\Practical-10_1\\Practical-10_1.Data\\Services"
+    "\\Practical-10_1\\Practical-10_1.Data\\Services",
+    "\\Practical-10_2",
+    "\\Practical-10_2\\Practical-10_2.Web",
+    "\\Practical-10_2\\Practical-10_2.Web\\Controllers"
   ],
-  "SelectedNode": "\\Practical-10_1\\Practical-10_1.Data\\Services\\InMemoryUserData.cs",
+  "SelectedNode": "\\Practical-10_2\\Practical-10_2.Web\\Controllers\\UserController.cs",
   "PreviewInSolutionExplorer": false
 }
